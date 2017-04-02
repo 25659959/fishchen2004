@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="1>香港", 翡翠台
-http://cdn.tvb.hktv.me:30001/jade.m3u8
 #EXTINF:-1 group-title="1>香港", 互动新闻
 http://cdn.tvb.hktv.me:30001/inews.m3u8
 #EXTINF:-1 group-title="1>香港", 民視新聞
@@ -638,8 +636,7 @@ http://gslbserv.itv.cmvideo.cn/cqws.m3u8?authCode=07110409322147352675&stbId=006
 
 
 
-#EXTINF:-1 group-title="7>战旗影院", 韩国美女女团
-http://wshdl.load.cdn.zhanqi.tv/zqlive/19969_TnDT2.flv
+
 #EXTINF:-1 group-title="7>战旗影院", 名城影院
 http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
 #EXTINF:-1 group-title="7>战旗影院", 鱼儿影院
@@ -658,8 +655,6 @@ http://wshdl.load.cdn.zhanqi.tv/zqlive/49858_wgGj1.flv
 http://wshdl.load.cdn.zhanqi.tv/zqlive/33765_6qakZ.flv
 #EXTINF:-1 group-title="7>战旗影院", 爱情公寓
 http://wshdl.load.cdn.zhanqi.tv/zqlive/34338_PVMT5.flv
-#EXTINF:-1 group-title="7>战旗影院", 韩奔跑男女
-http://wshdl.load.cdn.zhanqi.tv/zqlive/34822_KA3zE.flv
 #EXTINF:-1 group-title="7>战旗影院", 海贼王
 http://wshdl.load.cdn.zhanqi.tv/zqlive/37119_4ibXM.flv	
 #EXTINF:-1 group-title="7>战旗影院", 火影忍者
