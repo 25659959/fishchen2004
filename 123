@@ -1,0 +1,556 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="0" group-title="1>香港", 台灣一新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="1>香港", RHK31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="1>香港", RHK32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="1>香港", TVB娱乐
+http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+
+
+
+
+
+#EXTINF:-1 tvg-logo="0" group-title="2>香港体育", 直播1
+http://live.g3proxy.lecloud.com/gslb?stream_id=hk_yanboshi1_5000&amp=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="2>香港体育", 直播2
+http://live.g3proxy.lecloud.com/gslb?stream_id=hk_yanboshi2_5000&amp=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="2>香港体育", 直播3
+http://live.g3proxy.lecloud.com/gslb?stream_id=hk_yanboshi3_5000&amp=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="2>香港体育", 直播4
+http://live.g3proxy.lecloud.com/gslb?stream_id=hk_yanboshi4_5000&amp=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="2>香港体育", 直播5
+http://live.g3proxy.lecloud.com/gslb?stream_id=hk_yanboshi5_5000&amp=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="2>香港体育", 直播6
+http://live.g3proxy.lecloud.com/gslb?stream_id=hk_yanboshi6_5000&amp=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="2>香港体育", 直播7
+http://live.g3proxy.lecloud.com/gslb?stream_id=hk_yanboshi7_5000&amp=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="2>香港体育", 直播8
+http://live.g3proxy.lecloud.com/gslb?stream_id=hk_yanboshi8_5000&amp=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="2>香港体育", 直播9
+http://live.g3proxy.lecloud.com/gslb?stream_id=hk_yanboshi9_5000&amp=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="2>香港体育", 直播10
+http://live.g3proxy.lecloud.com/gslb?stream_id=hk_yanboshi10_5000&amp=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 欧美成人
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_adult1_1800&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 日本成人
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_adult3_1800&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 韩剧社区
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_KRdrama_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 天下卫视
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_us_CESmiyuezhuan_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 热门高清美剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rmmj_1800&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视4K
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_leshi4K_8000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视剧集
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lssljjt_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视日剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_JPdrama_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视台剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_TWdrama_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视韩剧
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_KRdrama_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", HITS
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_HITS_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 四大天王
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_fourkings_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 周星驰
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_stephenchow_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 成龙
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_jackiechen_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 甄子丹
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_donnieyan_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 周润发
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_FatGor_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 港产动作片
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_Hkactionmovies_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 港产鬼怪片
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_hkghost_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 港产喜剧片
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_Hkcomedies_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 港产爱情片
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_Hkromance_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 古装片
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_HKperiodMovies_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsdyt_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 外语动作片
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_movies2_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视外语浪漫片
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_movies3_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视世界影城电影频道
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_CinemaWorld_300&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", Thrill惊栗电影台
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_Thrill_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视卡通
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_cartoon2_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视综合动漫
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsdm_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视日本动漫
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_cartoon_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视4K纪录片
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_4Kdocumentary_8000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视纪录片
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsjlp_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视音乐
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lsyymvt_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", iConcerts
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_iconcerts_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视体育
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_lesports_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视4K演唱会
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_4Kconcert_8000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+#EXTINF:-1 tvg-logo="0" group-title="3>乐视香港", 乐视亲子
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_parenting_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 凤凰中文HD
+http://183.251.61.207/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 凤凰资讯HD
+http://183.251.61.207/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-1HD
+http://183.251.61.207/PLTV/88888888/224/3221225922/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-2HD
+http://183.251.61.207/PLTV/88888888/224/3221225923/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-3HD
+http://183.251.61.207/PLTV/88888888/224/3221225924/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-5HD
+http://183.251.61.207/PLTV/88888888/224/3221225925/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-6HD
+http://183.251.61.207/PLTV/88888888/224/3221225926/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-7HD
+http://183.251.61.207/PLTV/88888888/224/3221225927/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-8HD
+http://183.251.61.207/PLTV/88888888/224/3221225928/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-9HD
+http://183.251.61.207/PLTV/88888888/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 江苏卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225930/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-10HD
+http://183.251.61.207/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-12HD
+http://183.251.61.207/PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-14HD
+http://183.251.61.207/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 浙江卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225934/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 湖南卫视HD 
+http://183.251.61.207/PLTV/88888888/224/3221225935/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 东方卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225936/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 北京卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 深圳卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225938/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-5+HD
+http://183.251.61.207/PLTV/88888888/224/3221225939/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 黑龙江卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225940/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 天津卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225941/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 广东卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 山东卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225943/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 北京纪实HD
+http://183.251.61.207/PLTV/88888888/224/3221225944/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 安徽卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 上海纪实HD
+http://183.251.61.207/PLTV/88888888/224/3221225946/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 辽宁卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 湖北卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225948/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 重庆卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 直播室-1
+http://183.251.61.207/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 直播室-2
+http://183.251.61.207/PLTV/88888888/224/3221225906/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 直播室-3
+http://183.251.61.207/PLTV/88888888/224/3221225907/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 直播室-4
+http://183.251.61.207/PLTV/88888888/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 直播室-5
+http://183.251.61.207/PLTV/88888888/224/3221225909/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 直播室-6
+http://183.251.61.207/PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 直播室-7
+http://183.251.61.207/PLTV/88888888/224/3221225911/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 直播室-8
+http://183.251.61.207/PLTV/88888888/224/3221225913/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 五星体育HD
+http://183.251.61.207/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-2
+http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-3HD
+http://183.251.61.207/PLTV/88888888/224/3221225801/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-4
+http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-5HD
+http://183.251.61.207/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-6HD
+http://183.251.61.207/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-7
+http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-8HD
+http://183.251.61.207/PLTV/88888888/224/3221225806/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-1HD
+http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CGTN
+http://183.251.61.207/PLTV/88888888/224/3221225813/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-10
+http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-11
+http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-12
+http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-13
+http://183.251.61.207/PLTV/88888888/224/3221225817/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-15
+http://183.251.61.207/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-14
+http://183.251.61.207/PLTV/88888888/224/3221225819/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-9
+http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-5+HD
+http://183.251.61.207/PLTV/88888888/224/3221225821/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CGTN
+http://183.251.61.207/PLTV/88888888/224/3221225822/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-6HD
+http://183.251.61.207/PLTV/88888888/224/3221225823/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 广东卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225824/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 浙江卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 北京卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225826/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 湖南卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 东方卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225828/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-1HD
+http://183.251.61.207/PLTV/88888888/224/3221225829/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 天津卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225830/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 重庆卫视
+http://183.251.61.207/PLTV/88888888/224/3221225831/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 辽宁卫视
+http://183.251.61.207/PLTV/88888888/224/3221225832/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 东南卫视
+http://183.251.61.207/PLTV/88888888/224/3221225833/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 江西卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225834/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 四川卫视
+http://183.251.61.207/PLTV/88888888/224/3221225835/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 广西卫视
+http://183.251.61.207/PLTV/88888888/224/3221225836/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 河北卫视
+http://183.251.61.207/PLTV/88888888/224/3221225837/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 贵州卫视
+http://183.251.61.207/PLTV/88888888/224/3221225838/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 山西卫视
+http://183.251.61.207/PLTV/88888888/224/3221225839/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 湖北卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225840/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 青海卫视
+http://183.251.61.207/PLTV/88888888/224/3221225841/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 河南卫视
+http://183.251.61.207/PLTV/88888888/224/3221225842/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 山东卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225843/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 安徽卫视
+http://183.251.61.207/PLTV/88888888/224/3221225844/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 甘肃卫视
+http://183.251.61.207/PLTV/88888888/224/3221225845/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 内蒙古卫视
+http://183.251.61.207/PLTV/88888888/224/3221225846/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 江苏卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225847/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 深圳卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225848/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 宁夏卫视
+http://183.251.61.207/PLTV/88888888/224/3221225849/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 陕西卫视
+http://183.251.61.207/PLTV/88888888/224/3221225850/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 吉林卫视
+http://183.251.61.207/PLTV/88888888/224/3221225851/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 新疆卫视
+http://183.251.61.207/PLTV/88888888/224/3221225852/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 云南卫视
+http://183.251.61.207/PLTV/88888888/224/3221225853/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 西藏卫视
+http://183.251.61.207/PLTV/88888888/224/3221225854/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 旅游卫视
+http://183.251.61.207/PLTV/88888888/224/3221225855/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 康巴卫视
+http://183.251.61.207/PLTV/88888888/224/3221225856/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 湖南卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225857/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 江苏卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225858/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 浙江卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225859/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 东方卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225860/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 广东卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225861/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 黑龙江卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225862/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 深圳卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225863/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 天津卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225864/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 山东卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225865/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 湖北卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225866/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 北京卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225867/index.m3u8
+#EXTINF:-1 group-title="4>longlong", 江西卫视HD
+http://183.251.61.207/PLTV/88888888/224/3221225868/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CETV-1
+http://183.251.61.207/PLTV/88888888/224/3221225869/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 金鹰卡通
+http://183.251.61.207/PLTV/88888888/224/3221225870/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 卡酷少儿
+http://183.251.61.207/PLTV/88888888/224/3221225871/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 炫动卡通
+http://183.251.61.207/PLTV/88888888/224/3221225872/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", SDETV
+http://183.251.61.207/PLTV/88888888/224/3221225873/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 优漫卡通
+http://183.251.61.207/PLTV/88888888/224/3221225874/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 风尚购物
+http://183.251.61.207/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 家有购物
+http://183.251.61.207/PLTV/88888888/224/3221225876/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 爱情喜剧
+http://183.251.61.207/PLTV/88888888/224/3221225877/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 动画王国
+http://183.251.61.207/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 动作电影
+http://183.251.61.207/PLTV/88888888/224/3221225879/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 古装剧场
+http://183.251.61.207/PLTV/88888888/224/3221225880/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 海外剧场
+http://183.251.61.207/PLTV/88888888/224/3221225881/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 家庭剧场
+http://183.251.61.207/PLTV/88888888/224/3221225882/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 健康有约
+http://183.251.61.207/PLTV/88888888/224/3221225883/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 金牌综艺
+http://183.251.61.207/PLTV/88888888/224/3221225884/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 惊悚悬疑
+http://183.251.61.207/PLTV/88888888/224/3221225885/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 精品体育
+http://183.251.61.207/PLTV/88888888/224/3221225886/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 军旅剧场
+http://183.251.61.207/PLTV/88888888/224/3221225887/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 精品纪录
+http://183.251.61.207/PLTV/88888888/224/3221225888/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 精品大剧
+http://183.251.61.207/PLTV/88888888/224/3221225889/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 军事评论
+http://183.251.61.207/PLTV/88888888/224/3221225890/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 精品电影
+http://183.251.61.207/PLTV/88888888/224/3221225891/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 明星大片
+http://183.251.61.207/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 完美游戏
+http://183.251.61.207/PLTV/88888888/224/3221225894/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 搏击
+http://183.251.61.207/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", 中国功夫
+http://183.251.61.207/PLTV/88888888/224/3221225896/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="4>longlong", CCTV-5HD
+http://183.251.61.207/PLTV/88888888/224/3221225915/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-1综合
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=5068253659616166748&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-1综合HD
+http://183.252.176.11//PLTV/88888888/224/3221225922/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-2财经HD
+http://183.252.176.47//PLTV/88888888/224/3221225923/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-3综艺HD
+http://183.252.176.20//PLTV/88888888/224/3221225924/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-4中文国际(亚洲)HD
+http://61.166.153.32:1180/play/playback/90000001000000050000000000000199/live100001.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-5体育HD
+http://183.252.176.44//PLTV/88888888/224/3221225925/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-6电影HD
+http://183.252.176.41/PLTV/88888888/224/3221225926/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-7军事农业HD
+http://183.252.176.59//PLTV/88888888/224/3221225927/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-8电视剧HD
+http://183.252.176.65//PLTV/88888888/224/3221225928/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-9纪录HD
+http://183.252.176.35//PLTV/88888888/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-10科教HD
+http://183.252.176.14//PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-11戏曲
+http://183.251.61.204//PLTV/88888888/224/3221225815/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-12社会与法HD
+http://183.252.176.18//PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-14少儿HD
+http://183.252.176.24//PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-15音乐
+http://183.251.61.222//PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", CCTV-5+体育赛事
+http://183.252.176.41//PLTV/88888888/224/3221225939/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 凤凰卫视中文台
+http://223.82.250.3:8080/ysten-businessmobile/live/fhchinese/dujuejiami.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 凤凰卫视资讯台
+http://223.82.250.3:8080/ysten-businessmobile/live/fhzixun/dujuejiami.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 北京卫视HD
+http://183.251.61.226//PLTV/88888888/224/3221225867/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 东方卫视HD
+http://183.252.176.41/PLTV/88888888/224/3221225936/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 江苏卫视HD
+http://183.252.176.41/PLTV/88888888/224/3221225930/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 浙江卫视HD
+http://183.252.176.25//PLTV/88888888/224/3221225934/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 安徽卫视HD
+http://183.252.176.41/PLTV/88888888/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 湖南卫视HD
+http://183.252.176.41/PLTV/88888888/224/3221225935/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 山东卫视HD
+http://183.252.176.41/PLTV/88888888/224/3221225943/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 湖北卫视HD
+http://183.252.176.41/PLTV/88888888/224/3221225948/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 天津卫视HD
+http://183.252.176.41/PLTV/88888888/224/3221225941/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 广东卫视HD
+http://183.252.176.31//PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 深圳卫视HD
+http://183.252.176.41/PLTV/88888888/224/3221225938/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 辽宁卫视HD
+http://183.252.176.49//PLTV/88888888/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 黑龙江卫视HD
+http://183.252.176.41/PLTV/88888888/224/3221225940/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 重庆卫视HD
+http://183.252.176.41/PLTV/88888888/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 江西卫视HD
+http://218.207.213.137//PLTV/88888888/224/3221225868/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 北京纪实HD
+http://183.252.176.24//PLTV/88888888/224/3221225944/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 上海纪实HD
+http://183.252.176.41/PLTV/88888888/224/3221225946/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 东南卫视
+http://125.88.92.166:30001/PLTV/88888956/224/3221227719/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 贵州卫视
+http://125.88.92.166:30001/PLTV/88888956/224/3221227713/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 云南卫视
+http://125.88.92.166:30001/PLTV/88888956/224/3221227716/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 河南卫视
+http://125.88.92.166:30001/PLTV/88888956/224/3221227739/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 吉林卫视
+http://125.88.92.166:30001/PLTV/88888956/224/3221227745/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 山西卫视
+http://125.88.92.166:30001/PLTV/88888956/224/3221227696/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 陕西卫视
+http://125.88.92.166:30001/PLTV/88888956/224/3221227722/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 四川卫视
+http://125.88.92.166:30001/PLTV/88888956/224/3221227687/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 甘肃卫视
+http://125.88.92.166:30001/PLTV/88888956/224/3221227731/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 宁夏卫视
+http://125.88.92.166:30001/PLTV/88888956/224/3221227728/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 青海卫视
+http://125.88.92.166:30001/PLTV/88888956/224/3221227725/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 西藏卫视
+http://125.88.92.166:30001/PLTV/88888956/224/3221227702/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 内蒙古卫视
+http://111.1.36.208:8080/hellotv/live/neimenggustv/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 新疆卫视
+http://111.1.36.208:8080/hellotv/live/xinjiangstv/1.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 五星体育高清
+http://183.251.61.226//PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 百事通NBA1
+http://183.251.61.226//PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 百事通NBA2
+http://183.251.61.226//PLTV/88888888/224/3221225906/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 百事通NBA3
+http://183.251.61.226//PLTV/88888888/224/3221225907/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 百事通NBA4
+http://183.251.61.226//PLTV/88888888/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 百事通NBA5
+http://183.251.61.226//PLTV/88888888/224/3221225909/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 百事通NBA6
+http://183.251.61.226//PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 百事通NBA7
+http://183.251.61.226//PLTV/88888888/224/3221225911/index.m3u8
+#EXTINF:-1 tvg-logo="0" group-title="5>高清", 百事通NBA8
+http://183.251.61.226//PLTV/88888888/224/3221225913/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 喜剧
+http://live.gslb.letv.com/gslb?stream_id=lb_comedy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 跟播
+http://live.gslb.letv.com/gslb?stream_id=lb_genbo_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 自制剧
+http://live.gslb.letv.com/gslb?stream_id=lb_make_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 电影片花
+http://live.gslb.letv.com/gslb?stream_id=lb_trailer_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 好莱坞
+http://live.gslb.letv.com/gslb?stream_id=lb_hlw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 港产电影
+http://live.gslb.letv.com/gslb?stream_id=lb_lsgcp_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 动作电影
+http://live.gslb.letv.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 香港电影
+http://live.gslb.letv.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 粤语电影
+http://live.gslb.letv.com/gslb?stream_id=lb_yylbpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 华语电影
+http://live.gslb.letv.com/gslb?stream_id=lb_hydy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 乐视720P电影
+http://live.gslb.letv.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 乐视1080P电影
+http://live.gslb.letv.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 乐视4K电影
+http://live.gslb.letv.com/gslb?stream_id=lb_4k&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 乐视电影
+http://live.gslb.letv.com/gslb?stream_id=lb_lsdyt_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 日韩电影
+http://live.gslb.letv.com/gslb?stream_id=lb_rhdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 乐云华语电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hydy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1#http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hydy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 乐云电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 乐云香港电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 乐视成人3
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_adult3_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 乐视成人2
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_adult2_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="0" group-title="6>乐视电影", 乐视成人1
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hk_adult1_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+
+
+
